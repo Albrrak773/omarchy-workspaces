@@ -3,7 +3,10 @@
 Custom development environment launcher for [Omarchy](https://omarchy.org/) Linux.
 
 Define workspace scripts that launch multiple windows (terminals, editors, browsers) with a single click from the Omarchy menu.
+### Demo
+![screenrecording-2026-02-27_11-37-14-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e1f04321-d1f7-4bc7-9042-ec9204b6868f)
 
+*this opens Chrome with 2 tabs Discord and Jellyfin and it opens a Notion web app at a predifened page and finally Spotify*
 ## Features
 
 - Launch multiple apps/windows with one menu selection
