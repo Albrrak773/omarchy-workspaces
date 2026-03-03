@@ -2,8 +2,7 @@
 # Workspace: Send Certificates
 # Launches the send-certificates development environment
 
-PROJECT="/run/media/albrrak773/colorful SSD/Rclone/code/playground/send-certificates"
-
+PROJECT="/run/media/albrrak773/colorful SSD/Rclone/code/projects/Score Tracker/send-certificates"
 notify-send "Launching Workspace" "Send Certificates" -t 2000
 
 uwsm-app -- code "$PROJECT" &
